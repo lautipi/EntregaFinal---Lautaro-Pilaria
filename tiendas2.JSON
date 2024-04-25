@@ -1,0 +1,154 @@
+[
+    {
+      "pocion": {
+        "nombre": "Poción de salud",
+        "cantidad": 5,
+        "descripcion": "Restaura 50 puntos de salud.",
+        "precio": 50
+      },
+      "armadura": {
+        "nombre": "Armadura de cuero",
+        "descripcion": "Una armadura ligera hecha de cuero resistente.",
+        "precio": 100
+      },
+      "arma" : {
+        "nombre": "Espada de hierro",
+        "descripcion" : "Una espada forjada en hierro, afilada y resistente.",
+        "precio": 150
+      },
+      "mensaje del vendedor": "¡Bienvenido a la tienda!"
+    },
+  {
+      "pocion": {
+        "nombre": "Elixir de fuerza",
+        "cantidad": 3,
+        "descripcion": "Aumenta temporalmente la fuerza del bebedor.",
+        "precio": 80
+      },
+      "armadura": {
+        "nombre": "Armadura de acero",
+        "descripcion": "Una armadura pesada hecha de acero duradero.",
+        "precio": 200
+      },
+      "arma": {
+        "nombre": "Arco largo",
+        "descripcion": "Un arco largo para disparos de largo alcance.",
+        "precio": 120
+      },
+      "mensaje del vendedor": "¡Encuentra lo mejor en nuestra tienda!"
+    },
+  {
+      "pocion": {
+        "nombre": "Poción de resistencia",
+        "cantidad": 7,
+        "descripcion": "Aumenta temporalmente la resistencia del usuario.",
+        "precio": 60
+      },
+      "armadura": {
+        "nombre": "Armadura de mithril",
+        "descripcion": "Una armadura excepcionalmente ligera y resistente.",
+        "precio": 300
+      },
+      "arma": {
+        "nombre": "Daga envenenada",
+        "descripcion": "Una daga con una hoja envenenada para ataques sigilosos.",
+        "precio": 90
+      },
+      "mensaje del vendedor": "¡Descubre nuestras ofertas especiales!"
+    },
+  {
+      "pocion": {
+        "nombre": "Elixir de velocidad",
+        "cantidad": 4,
+        "descripcion": "Aumenta temporalmente la velocidad del usuario.",
+        "precio": 70
+      },
+      "armadura": {
+        "nombre": "Armadura de bronce",
+        "descripcion": "Una armadura básica pero resistente hecha de bronce.",
+        "precio": 80
+      },
+      "arma": {
+        "nombre": "Martillo de guerra",
+        "descripcion": "Un martillo pesado para aplastar a tus enemigos.",
+        "precio": 140
+      },
+      "mensaje del vendedor": "¡No te pierdas nuestras promociones!"
+    },
+  {
+      "pocion": {
+        "nombre": "Poción de mana",
+        "cantidad": 6,
+        "descripcion": "Restaura 50 puntos de maná.",
+        "precio": 55
+      },
+      "armadura": {
+        "nombre": "Armadura de hierro",
+        "descripcion": "Una armadura resistente hecha de hierro forjado.",
+        "precio": 150
+      },
+      "arma": {
+        "nombre": "Ballesta",
+        "descripcion": "Una ballesta para disparos precisos y poderosos.",
+        "precio": 170
+      },
+      "mensaje del vendedor": "¡Tenemos todo lo que necesitas!"
+    },
+  {
+      "pocion": {
+        "nombre": "Poción de invisibilidad",
+        "cantidad": 2,
+        "descripcion": "Hace al usuario invisible durante un corto período.",
+        "precio": 100
+      },
+      "armadura": {
+        "nombre": "Armadura de oro",
+        "descripcion": "Una armadura lujosa pero efectiva hecha de oro macizo.",
+        "precio": 500
+      },
+      "arma": {
+        "nombre": "Espada de fuego",
+        "descripcion": "Una espada que arde en llamas al ser empuñada.",
+        "precio": 200
+      },
+      "mensaje del vendedor": "¡Las mejores armas y armaduras te esperan aquí!"
+    },
+  {
+      "pocion": {
+        "nombre": "Poción de veneno",
+        "cantidad": 8,
+        "descripcion": "Causa daño por veneno al bebedor.",
+        "precio": 40
+      },
+      "armadura": {
+        "nombre": "Armadura de jade",
+        "descripcion": "Una armadura exótica hecha de jade pulido.",
+        "precio": 250
+      },
+      "arma": {
+        "nombre": "Hacha de batalla",
+        "descripcion": "Un hacha pesada para cortar a través de tus enemigos.",
+        "precio": 180
+      },
+      "mensaje del vendedor": "¡Visita nuestra tienda para grandes ofertas!"
+    },
+  {
+      "pocion": {
+        "nombre": "Poción de rejuvenecimiento",
+        "cantidad": 3,
+        "descripcion": "Restaura la salud y el maná del usuario.",
+        "precio": 120
+      },
+      "armadura": {
+        "nombre": "Armadura de ébano",
+        "descripcion": "Una armadura oscura y resistente hecha de ébano.",
+        "precio": 350
+      },
+      "arma": {
+        "nombre": "Lanza",
+        "descripcion": "Una lanza larga para ataques a distancia.",
+        "precio": 130
+      },
+      "mensaje del vendedor": "¡Descubre los artículos más valiosos en nuestra tienda!"
+    }
+]
